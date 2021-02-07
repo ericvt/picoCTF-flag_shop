@@ -29,9 +29,10 @@ This also value provide an account_balance > $100,000. Going over that value wou
 Note: int (2,147,483,647x2)= -2
 
 Hope this provided a deeper explaination.
-You can play the value with 
+You can play the value with results.c provided in this repo.
+If you don't have C compiler, use the online one: http://www.pythontutor.com/c.html#mode=edit
 
-http://www.pythontutor.com/c.html#mode=edit
+Happy flag capturing!
 
 
 
