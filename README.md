@@ -30,7 +30,7 @@ max_val * 900 -1,100 < 2,147,483,647x2 -100,000
 >This value provides an account_balance > $100,000. Going over that value would trigger a positive value again and not allow you to use the exploit. 
 
 Hope this provided a deeper explaination.  
-You can play the value with [results.c](https://www.microsoft.com) provided in this repo.  
+You can play the value with [results.c](https://github.com/ericvt/picoCTF_flag_shop/blob/main/results.c) provided in this repo.  
 If you don't have C compiler, use the online one: http://www.pythontutor.com/c.html#mode=edit. 
 
 Happy flag capturing!
