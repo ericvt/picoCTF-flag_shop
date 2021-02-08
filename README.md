@@ -1,4 +1,4 @@
-# picoCTF_flag_shop
+# picoCTF flag_shop
 
 If you have tried to practice your cybersecurity skills you probably have gone thru the CaptureTheFlag (CTF) training practices provided by Carnegie Mellon University: https://picoctf.org/resources
 
